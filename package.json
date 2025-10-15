@@ -6,8 +6,8 @@
     "scripts": {
         "start": "node index.js",
         "test": "echo \"Error: no test specified\" && exit 1",
-        "dev": "npm --filter @web dev",
-        "build": "npm -r build",
+        "dev": "npm run dev -w web",
+        "build": "npm -r build -w web",
         "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
         "lint:fix": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
         "format": "prettier --write ."
@@ -23,5 +23,5 @@
         "apps/*",
         "packages/*"
     ],
-    "packageManager": "pnpm@10.18.3+sha512.bbd16e6d7286fd7e01f6b3c0b3c932cda2965c06a908328f74663f10a9aea51f1129eea615134bf992831b009eabe167ecb7008b597f40ff9bc75946aadfb08d"
+    "packageManager": "npm@10.9.2"
 }
