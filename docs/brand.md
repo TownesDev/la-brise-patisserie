@@ -1,4 +1,4 @@
-# 🍰 Pâtisserie Breeze — Brand Guide v1
+# 🍰 La Brise Pâtisserie — Brand Guide v1
 
 > A family-friendly, pastel-themed bakery experience built for the web.  
 > Our tone: *whimsical, lighthearted, and delightfully polished.*
