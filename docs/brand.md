@@ -78,7 +78,7 @@ Review rating modal
 
 | Role | Person / Org |
 |------|--------------|
-| Design Lead | Brxndxn Diaz (@brxndxn) | 
+| Design Lead | Brxndxn Diaz (@brxndxn) |
 | Creative Direction / Front-End | Donovan Townes (@TownesDev) |
 | Development Org | [TownesDev](https://townesdev.com) |
 
