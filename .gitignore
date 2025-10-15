@@ -1,0 +1,22 @@
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+node_modules
+dist
+packages/*/node_modules
+packages/*/dist
+packages/*/build
+packages/*/coverage
+packages/*/lib
+packages/*/esm
+
+# Ignore log files and temp files
+*.log
+*.tmp
+*.temp
+*.swp
+.DS_Store
+.vscode
+.idea
